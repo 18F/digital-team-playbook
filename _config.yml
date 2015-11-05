@@ -1,0 +1,85 @@
+markdown: redcarpet
+name: 18F Consulting Playbook
+exclude:
+- CONTRIBUTING.md
+- Gemfile
+- Gemfile.lock
+- LICENSE.md
+- README.md
+- go
+- vendor
+
+permalink: pretty
+highlighter: rouge
+incremental: true
+
+sass:
+  style: :compressed
+
+# Author/Organization info to be displayed in the templates
+author: 
+  name: 18F
+  url: https://18f.gsa.gov
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl: /assets/img/18f-logo.png
+logoalt: 18F logo
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: Consulting playbook
+  url: consulting-playbook/
+  internal: true
+  children:
+  - text: Introduction
+    url: Introduction/
+    internal: true
+- text: Empower
+  url: empower/
+  internal: true
+- text: Equip
+  url: equip/
+  internal: true
+- text: Hire
+  url: hire/
+  internal: true
+- text: Recruit
+  url: recruit/
+  internal: true
+- text: Repeat
+  url: repeat/
+  internal: true
+- text: Resources
+  url: resources/
+  internal: true
+- text: Retain
+  url: retain/
+  internal: true
+- text: What is a digital services team
+  url: what-is-a-digital-services-team/
+  internal: true
+- text: Update the config file
+  url: update-the-config-file/
+  internal: true
+  children:
+  - text: Understanding the `baseurl:` property
+    url: understanding-baseurl/
+    internal: true
+
+repos:
+- name: Digital Services Playbook
+  description: Digital Services Playbook
+  url: https://github.com/18F/digital-services-playbook
+
+back_link:
+  url: "https://pages.18f.gov/guides/"
+  text: Digital Services Playbook
+
+google_analytics_ua: UA-48605964-19
+
+defaults:
+- scope:
+    path: ""
+  values:
+    layout: "guides_style_18f_default"
