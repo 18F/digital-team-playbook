@@ -28,6 +28,9 @@ logoalt: 18F logo
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
+- text: Introduction
+  url: /
+  internal: true
 - text: What is a digital services team?
   url: what-is-a-digital-services-team/
   internal: true
@@ -52,15 +55,35 @@ navigation:
 - text: Retain
   url: retain/
   internal: true
+- text: About 18F consulting services
+  url: about-18f-consulting-services/
+  internal: true
+  children:
+  - text: When to use discovery
+    url: when-to-use-discovery/
+    internal: true
+  - text: Discovery sprint
+    url: discovery-sprint/
+    internal: true
+  - text: Agile kickoff
+    url: agile-kickoff-meeting/
+    internal: true
+  - text: Needs assessment
+    url: needs-assessment/
+    internal: true
+  - text: RFP ghostwriting
+    url: ghostwriting-workshop/
+    internal: true
+  
 
 repos:
-- name: Digital Services Playbook
-  description: Digital Services Playbook
-  url: https://github.com/18F/digital-services-playbook
+- name: Consulting playbook
+  description: Digital Services Team Playbook
+  url: https://github.com/18F/digital-team-playbook
 
 back_link:
   url: "https://pages.18f.gov/guides/"
-  text: Digital Services Playbook
+  text: 18F Guides
 
 google_analytics_ua: UA-48605964-19
 

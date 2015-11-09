@@ -11,10 +11,11 @@ This is a companion guide to the other [18F Guides](https://pages.18f.gov/guides
 
 [18F Consulting](https://18f.gsa.gov/consulting) provides a number of services to get you started.  Here are just a few:
 
-* Agile Kickoff Meeting
-* Needs Assessment
-* RFP Ghostwriting
-* Discovery Sprint
+* [When to use discovery](about-18f-consulting-services/when-to-use-discovery/)
+* [Discovery Sprint](about-18f-consulting-services/discovery-sprint/)
+* [Agile Kickoff](about-18f-consulting-services/agile-kickoff-meeting/)
+* [Needs Assessment](about-18f-consulting-services/needs-assessment/)
+* [RFP Ghostwriting](about-18f-consulting-services/ghostwriting-workshop/)
 
 
 ##Inspiration
