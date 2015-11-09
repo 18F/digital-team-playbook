@@ -29,7 +29,7 @@ logoalt: 18F logo
 # List links that should appear in the site sidebar here
 navigation:
 - text: Introduction
-  url: /
+  url: 
   internal: true
 - text: What is a digital services team?
   url: what-is-a-digital-services-team/
