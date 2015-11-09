@@ -1,17 +1,7 @@
 ---
 permalink: /
-title: Intro
+title: Introduction
 ---
-This document introduces you to the various aspects of standing up a digital services team within your organization. 
+This playbook introduces you to the various aspects of standing up a digital services team within your organization.  You are welcome to contribute to this guide and share your own insights on strategies for building effective digital services teams wthin governments.  
 
-Standing up a digital services team includes the following key actions, all of which are explained in this document: 
-
-1. What is a digital services team, and why do you need one?
-2. Assess strengths and weaknesses
-3. Recruit
-4. Hire
-5. Empower 
-6. Equip
-7. Retain
-8. Assess
-9. Repeat/Iterate
+This is a companion guide to the other [18F Guides](https://pages.18f.gov/guides/) and the [U.S. Digital Services Playbook](https://playbook.cio.gov/).
