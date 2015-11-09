@@ -1,5 +1,5 @@
 markdown: redcarpet
-name: 18F Consulting Playbook
+name: 18F Digital Services Playbook
 exclude:
 - CONTRIBUTING.md
 - Gemfile
@@ -28,13 +28,9 @@ logoalt: 18F logo
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Consulting playbook
-  url: consulting-playbook/
+- text: What is a digital services team
+  url: what-is-a-digital-services-team/
   internal: true
-  children:
-  - text: Introduction
-    url: Introduction/
-    internal: true
 - text: Empower
   url: empower/
   internal: true
@@ -56,16 +52,6 @@ navigation:
 - text: Retain
   url: retain/
   internal: true
-- text: What is a digital services team
-  url: what-is-a-digital-services-team/
-  internal: true
-- text: Update the config file
-  url: update-the-config-file/
-  internal: true
-  children:
-  - text: Understanding the `baseurl:` property
-    url: understanding-baseurl/
-    internal: true
 
 repos:
 - name: Digital Services Playbook
