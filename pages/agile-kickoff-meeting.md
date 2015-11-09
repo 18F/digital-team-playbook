@@ -3,9 +3,6 @@ permalink: /about-18f-consulting-services/agile-kickoff-meeting/
 title: 18F agile kickoff meeting
 parent: About 18F Consulting Services
 ---
-#Agile Kickoff Meeting
-
-##Overview
 The Agile Kickoff Meeting helps you strategize with members of your agency to align new project goals to the best possible outcomes.
 
 ##Goals and Outcomes

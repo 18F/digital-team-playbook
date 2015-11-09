@@ -3,9 +3,6 @@ permalink: /about-18f-consulting-services/when-to-use-discovery/
 title: When to use disovery
 parent: About 18F Consulting Services
 ---
-#Discovery: An Overview
-
-##What is Discovery and when should you use it?
 Discovery is a process by which a government agency (you) can work with another government agency (us) to help identify, assess, address and understand a particular challenge you’re dealing with or a new project you are beginning to define.
 
 Discovery can take many different forms depending on the set of tasks it’s trying to help you address, but there are some similar characteristics to most processes.  They include:

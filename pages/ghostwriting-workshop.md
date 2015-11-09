@@ -3,9 +3,6 @@ permalink: /about-18f-consulting-services/ghostwriting-workshop/
 title: 18F RFP ghostwriting workshop
 parent: About 18F Consulting Services
 ---
-#RFP Ghostwriting Workshop
-
-##Overview
 The (RFP) Ghostwriting Workshop will bring together key stakeholders from your agency and product, technology,
 and acquisition specialists from the 18F team over the course of one to three days to facilitate the rapid development 
 of an acquisition strategy and solicitation documents, as well as associated artifacts.

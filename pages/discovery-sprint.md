@@ -3,9 +3,6 @@ permalink: /about-18f-consulting-services/discovery-sprint/
 title: 18F discovery sprint
 parent: About 18F Consulting Services
 ---
-#Discovery Sprint
-
-##Overview
 A discovery sprint provides you with insight into specific needs of your users, and helps you identify solutions that may not
 have been readily apparent.  The discovery sprint also helps to align your broader agency team around this research, and provides
 a roadmap for next steps and overall product direction.

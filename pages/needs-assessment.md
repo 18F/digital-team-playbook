@@ -3,9 +3,6 @@ permalink: /about-18f-consulting-services/needs-assessment/
 title: 18F needs assessment
 parent: About 18F Consulting Services
 ---
-#Needs Assessment
-
-##Overview
 The needs assessment provides a rapid summary of information following initial contact with a client.
 
 ##Duration
