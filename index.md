@@ -10,4 +10,4 @@ This is a companion guide to the other [18F Guides](https://pages.18f.gov/guides
 
 Want to see how others are standing up digital services teams within their own organizations?  Here's a shortlist of few success stories:
 
-1. [Designing for (all of) America at the CFPB](http://www.slideshare.net/molliebates/designing-for-all-of-america-at-the-cfpb-aiga-conference-presentation).
+ - [Designing for (all of) America at the CFPB](http://www.slideshare.net/molliebates/designing-for-all-of-america-at-the-cfpb-aiga-conference-presentation).

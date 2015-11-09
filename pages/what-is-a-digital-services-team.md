@@ -31,7 +31,16 @@ Manage security and privacy through reusable processes
 Use data to drive decisions
 Default to open
 
-Understanding these plays are fundamental to successfully establishing a digital services team.
+###Case Study: The Consumer Financial Protection Bureau
+
+Understanding these plays are fundamental to successfully establishing a digital services team.  For the [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/), their team was guided largely by these four prevailing principles:
+
+1. Build a diverse team of creatives 
+2. Embrace and cultivate a team culture
+3. Establish core standards
+4. Expand and maximize reach
+
+A complete overview of their experience standing up a Digital Services Team [can be found here](http://www.slideshare.net/molliebates/designing-for-all-of-america-at-the-cfpb-aiga-conference-presentation).
 
 A founding digital services team will also help recruit new members, growing the team, while simultaneously establishing processes and procedures. When you’re early in the planning phase, consider a few of these as great ways to get started:
 

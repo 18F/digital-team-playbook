@@ -1,5 +1,5 @@
 markdown: redcarpet
-name: 18F Digital Services Playbook
+name: 18F Digital Services Team Playbook
 exclude:
 - CONTRIBUTING.md
 - Gemfile
@@ -28,7 +28,7 @@ logoalt: 18F logo
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: What is a digital services team
+- text: What is a digital services team?
   url: what-is-a-digital-services-team/
   internal: true
 - text: Empower
