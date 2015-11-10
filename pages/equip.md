@@ -24,14 +24,14 @@ In government, it can be especially tricky to figure out the best way to procure
 ##Software and Services
 A digital services team needs access to various software and services to perform efficiently and effectively. In the short term, we recommend starting the process of approving and acquiring a few things that the team will surely use. In the long term, ensure that the team has a budget to acquire software and services as they need (in a timely fashion). 
 
-Here are some examples of common tools or platforms that your digital services staff will find useful in their day-to-day work.
+Here are some examples of some tools or platforms that your digital services staff may find useful in their day-to-day work.  This is not an all-inclusive list - it's important to discuss with your staff what tools are most useful and which ones they feel most comfortable using.
 
-####Collaboration Tools
-**Github**, a popular web-based repository is used to develop and collaborate code in the open. For more on why that’s important for a digital services team, see this [blog post](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/).
-**New Relic** (a service that allows your team to monitor servers and applications, providing alerts and insight during errors, excess load etc.) 
-**Trello** (a project management tool)
-**Adobe Creative Suite and/or Sketch** (wireframe and visual design tools)
-**Invision** (prototyping tool that can also capture feedback)
+####Example Tools
+* [**Github**](https://github.com/), a popular web-based repository is used to develop and collaborate code in the open. For more on why that’s important for a digital services team, see this [blog post](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/).
+* **New Relic** (a service that allows your team to monitor servers and applications, providing alerts and insight during errors, excess load etc.) 
+* **Trello** (a project management tool)
+* **Adobe Creative Suite and/or Sketch** (wireframe and visual design tools)
+* **Invision** (prototyping tool that can also capture feedback)
 
 Consider figuring out how to procure these solutions prior to your team starting.   If you get stuck, reach out to an agency who already has a digital services team to learn more about the tools they use.   As an example, 18F uses a script that [automatically loads software](https://github.com/18F/laptop) optimized for team members.
 
