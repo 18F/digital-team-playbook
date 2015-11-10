@@ -10,20 +10,19 @@ If you find shortening the onboarding process significantly challenging at your 
 ##Authorities
 **Hiring authorities.** There are several hiring authorities that you can use, which have been successfully used at other agencies. The following table outlines only a few of these options, and it is important to work collaboratively with human capital representatives to determine the best course(s) of action.
 
-
-####Fellowship Programs - Schedule A 213.3102 (r)
+####Fellowship Programs - [Schedule A 213.3102 (r)](http://www.ecfr.gov/cgi-bin/text-idx?rgn=div5&node=5:1.0.1.2.22#se5.1.213_13102)
 Description: Positions established in support of fellowship and similar programs that are filled from limited applicant pools and operate under specific criteria developed by the employing agency and/or a non-Federal organization. Appointments under this authority may not exceed 4 years.
 
 Advantages: No cap on # of FTE slots; Up to 4 years (a lifetime for tech people); Precedence - several agencies using (GSA, EPA), Hiring flexibility
 
 Disadvantages: Requires HR office to institute use
 
-####Smarter IT Delivery - Schedule A 213.3137 (a)
+####Smarter IT Delivery - [Schedule A 213.3137 (a)](http://www.ecfr.gov/cgi-bin/text-idx?rgn=div5&node=5:1.0.1.2.22#se5.1.213_13102)
 Description: Hire individuals in support of the Administration’s Smarter Information Technology Initiative. Candidates identified through network of innovators. 1-year term, with option to extend one additional year.
 Advantages: Precedence - several agencies using (VA, SSA); Hiring flexibility
 Disadvantages: Each agency has a specific allocation; Limited to supporting only certain projects; Set to expire on 9/30/2017
 
-####IT Security Direct Hire-Authority
+####[IT Security Direct Hire-Authority](https://www.opm.gov/policy-data-oversight/hiring-authorities/direct-hire-authority/#url=Overview)
 Description: Agencies can hire cybersecurity specialists and without going through standard government job competitions
 Advantages: Commonly used; Hiring flexibility; Permanent
 Disadvantages: Scope of responsibilities must relate to cybersecurity; Types of talent recruiting might be deterred by career designation

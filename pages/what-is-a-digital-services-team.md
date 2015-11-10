@@ -15,21 +15,21 @@ Digital services teams can begin small, with just few dedicated staff members. W
 
 A digital services team creates a common culture of technical excellence. They’ll use human-centered, open source, open data approaches to reduce costs and provide useful and pleasant interactions across the public, industry, and agencies. 
 
-To understand how a digital services teamoperates, read the following guide (after you’re done reading this one, of course): https://playbook.cio.gov/.  The Digital Services Playbook identifies thirteen key “digital service plays”.  Which are: 
+To understand how a digital services team operates, read the following guide (after you’re done reading this one, of course): [https://playbook.cio.gov/](https://playbook.cio.gov).  The Digital Services Playbook identifies thirteen key “digital service plays”.  They are: 
 
-Understand what people need
-Address the whole experience, from start to finish
-Make it simple and intuitive
-Build the service using agile and iterative practices
-Structure budgets and contracts to support delivery
-Assign one leader and hold that person accountable
-Bring in experienced teams
-Choose a modern technology stack
-Deploy in a flexible hosting environment
-Automate testing and deployments
-Manage security and privacy through reusable processes
-Use data to drive decisions
-Default to open
+1. [Understand what people need](https://playbook.cio.gov/#play1)
+2. [Address the whole experience, from start to finish](https://playbook.cio.gov/#play2)
+3. [Make it simple and intuitive](https://playbook.cio.gov/#play3)
+4. [Build the service using agile and iterative practices](https://playbook.cio.gov/#play4)
+5. [Structure budgets and contracts to support delivery](https://playbook.cio.gov/#play5)
+6. [Assign one leader and hold that person accountable](https://playbook.cio.gov/#play6)
+7. [Bring in experienced teams](https://playbook.cio.gov/#play7)
+8. [Choose a modern technology stack](https://playbook.cio.gov/#play8)
+9. [Deploy in a flexible hosting environment](https://playbook.cio.gov/#play9)
+10. [Automate testing and deployments](https://playbook.cio.gov/#play10)
+11. [Manage security and privacy through reusable processes](https://playbook.cio.gov/#play11)
+12. [Use data to drive decisions](https://playbook.cio.gov/#play12)
+13. [Default to open](https://playbook.cio.gov/#play13)
 
 ###Case Study: The Consumer Financial Protection Bureau
 

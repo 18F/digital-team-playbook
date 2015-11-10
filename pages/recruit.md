@@ -17,22 +17,22 @@ Listing the available positions, and providing a link for applicants to submit t
 
 ###Examples
 
-[Consumer Financial Protection Bureau] (http://www.consumerfinance.gov/jobs/technology-innovation-fellows/)
-[United States Digital Service] (https://www.whitehouse.gov/digital/united-states-digital-service)
-[Presidential Innovation Fellows] (https://presidentialinnovationfellows.gov/)
-[Department of Veterans Affairs] (http://www.va.gov/ds/)
-[General Services Administration] (https://18f.gsa.gov/)
+* [Consumer Financial Protection Bureau] (http://www.consumerfinance.gov/jobs/technology-innovation-fellows/)
+* [United States Digital Service] (https://www.whitehouse.gov/digital/united-states-digital-service)
+* [Presidential Innovation Fellows] (https://presidentialinnovationfellows.gov/)
+* [Department of Veterans Affairs] (http://www.va.gov/ds/)
+* [General Services Administration] (https://18f.gsa.gov/)
 
 ##Approach 
 
-As with everything, iteration is key. Initially, start by putting out a minimal  version of the website, and expand it later as the concepts and value of the team is further refined: 
+As with everything, iteration is key. Initially, start by putting out a minimal version of the website, and expand it later as the concepts and value of the team is further refined: 
 
 For example, consider as a minimal viable product: 
 
-A single page (maybe even hosted on medium.com) with an email address can suffice initially. 
+> A single page (maybe even hosted on medium.com) with an email address can suffice initially. 
 
 A second iteration might include: 
 
-Work on a branding and communication strategy to recruit candidates from industry. Change the perception that government is a boring, bureaucratic place to work. 
+> Work on a branding and communication strategy to recruit candidates from industry. Change the perception that government is a boring, bureaucratic place to work. 
 
 The driving force behind a Digital Service Teams should never stop evolving, nor should the story. So it’s important to transition the focus of the digital presence from initial recruitment to sustainment at some phase of the project. This maturation should include the development of more formal and regular outreach channels (social media, blogs, etc) to engage the public and the broader digital community in the critical work being done.
