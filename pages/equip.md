@@ -27,7 +27,7 @@ A digital services team needs access to various software and services to perform
 Here are some examples of common tools or platforms that your digital services staff will find useful in their day-to-day work.
 
 ####Collaboration Tools
-**Github**, a popular web-based repository is used to develop and collaborate code in the open. For more on why that’s important for a digital services team, see this blog post.
+**Github**, a popular web-based repository is used to develop and collaborate code in the open. For more on why that’s important for a digital services team, see this [blog post](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/).
 **New Relic** (a service that allows your team to monitor servers and applications, providing alerts and insight during errors, excess load etc.) 
 **Trello** (a project management tool)
 **Adobe Creative Suite and/or Sketch** (wireframe and visual design tools)
