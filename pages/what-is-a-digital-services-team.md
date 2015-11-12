@@ -31,6 +31,12 @@ To understand how a digital services team operates, read the following guide (af
 12. [Use data to drive decisions](https://playbook.cio.gov/#play12)
 13. [Default to open](https://playbook.cio.gov/#play13)
 
+A few other handy resources include:
+
+1. [The Agile Governance Playbook](http://handbook.agilegovleaders.org/)
+2. [How to run an agile project in government - webinar](http://www.digitalgov.gov/2015/01/16/how-to-run-an-agile-project-in-government/)
+3. [U.K.'s Government Service Design Manual](https://www.gov.uk/service-manual/agile)
+
 ###Case Study: The Consumer Financial Protection Bureau
 
 Understanding these plays are fundamental to successfully establishing a digital services team.  For the [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/), their team was guided largely by these four prevailing principles:
