@@ -34,7 +34,7 @@ To understand how a digital services team operates, read the following guide (af
 A few other handy resources include:
 
 1. [The Agile Governance Playbook](http://handbook.agilegovleaders.org/)
-2. [How to run an agile project in government - webinar](http://www.digitalgov.gov/2015/01/16/how-to-run-an-agile-project-in-government/)
+2. [How to run an agile project in government - webinar](http://www.digitalgov.gov/2015/01/16/how-to-run-an-agile-project-in-government/) + [slides](https://18f.gsa.gov/assets/docs/How_to_Run_an_Agile_Project_in_Government.pdf)
 3. [U.K.'s Government Service Design Manual](https://www.gov.uk/service-manual/agile)
 
 ###Case Study: The Consumer Financial Protection Bureau
