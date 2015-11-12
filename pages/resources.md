@@ -14,11 +14,12 @@ There are numerous resources available to you for your use in starting your own 
 * [Lean UX Guide](https://pages.18f.gov/LeanUX/)
 * [18F Accessibility Guide](https://pages.18f.gov/accessibility/)
 
-##Dev & Design
+##Development
 * [Automated Testing Playbook](https://pages.18f.gov/automated-testing-playbook/)
 * [Dev Environment Guide](https://pages.18f.gov/dev-environment/)
 * [Before-you-ship Checklist](https://pages.18f.gov/before-you-ship/)
 * [Testing Cookbook](https://pages.18f.gov/testing-cookbook/)
+* [18F Open Source Style Guide](https://pages.18f.gov/open-source-guide/)
 
 ##Content
 * [18F Content Guide](https://pages.18f.gov/content-guide/)
@@ -28,7 +29,6 @@ There are numerous resources available to you for your use in starting your own 
 * [Project Open Data](http://project-open-data.github.io/)
 * [Analytics](https://github.com/18F/analytics-standards)
 * [APIs](https://github.com/18f/api-standards)
-* [18F Open Source Style Guide](https://pages.18f.gov/open-source-guide/)
 
 ##Contracts
 * [TechFar Handbook](https://playbook.cio.gov/techfar/)
