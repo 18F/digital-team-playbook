@@ -31,12 +31,6 @@ To understand how a digital services team operates, read the following guide (af
 12. [Use data to drive decisions](https://playbook.cio.gov/#play12)
 13. [Default to open](https://playbook.cio.gov/#play13)
 
-A few other handy resources include:
-
-1. [The Agile Governance Playbook](http://handbook.agilegovleaders.org/)
-2. [How to run an agile project in government - webinar](http://www.digitalgov.gov/2015/01/16/how-to-run-an-agile-project-in-government/) + [slides](https://18f.gsa.gov/assets/docs/How_to_Run_an_Agile_Project_in_Government.pdf)
-3. [U.K.'s Government Service Design Manual](https://www.gov.uk/service-manual/agile)
-
 ###Case Study: The Consumer Financial Protection Bureau
 
 Understanding these plays are fundamental to successfully establishing a digital services team.  For the [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/), their team was guided largely by these four prevailing principles:
@@ -52,3 +46,10 @@ A founding digital services team will also help recruit new members, growing the
 
 ##Host a Digital Services Workshop
 You may already have a good idea of some of the people within your agency might make for great partners, but do you know them all? Consider hosting an event to  start creating momentum behind the idea of changing the way the agency delivers and manages digital services. If your agency happens to present unusual challenges to doing this yourself, consider finding a partner at 18F or USDS who can help you facilitate and lead such a meeting. Sometimes called Design Studios or Discovery Workshops, these events will help develop a better sense of who your partners in the coming year will be, and help identify existing staff who can make your digital service team a reality.
+
+##Other helpful resources
+Looking for more?  A few other handy resources include:
+
+1. [The Agile Governance Playbook](http://handbook.agilegovleaders.org/)
+2. [How to run an agile project in government - webinar](http://www.digitalgov.gov/2015/01/16/how-to-run-an-agile-project-in-government/) + [slides](https://18f.gsa.gov/assets/docs/How_to_Run_an_Agile_Project_in_Government.pdf)
+3. [U.K.'s Government Service Design Manual](https://www.gov.uk/service-manual/agile)
