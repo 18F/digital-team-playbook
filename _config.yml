@@ -74,6 +74,9 @@ navigation:
   - text: RFP ghostwriting
     url: ghostwriting-workshop/
     internal: true
+  - text: Prototyping
+    url: prototype-guidelines/
+    internal: true
   
 
 repos:
