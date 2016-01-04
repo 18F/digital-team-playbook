@@ -27,3 +27,47 @@ Want to see how others are standing up digital services teams within their own o
  - [A startup in the Department of Commerce](https://www.commerce.gov/dataservice/)
  - [General Service Administration](http://www.agilegovleaders.org/case-studies/gsa/)
  
+##The first few sprints...
+Is your project starting soon?  Here's a brief outline of activities in checklist format during the first few weeks that might be helpful in framing your project and getting off to a good start.  
+
+###Beginning of product discovery - Sprint 0 
+- [ ] Evaluate the proposed sprint team to make sure all necessary roles are accounted for.
+- [ ] Clearly identify the empowered product owner.
+- [ ] If you're working with a vendor, determine the vendor's ability to provide good human-centered design processes and work under an agile framework.  If the vendor is found lacking in these areas, augment your team with the missing capabilities as you can before you start, and coach the rest of your team as necessary.
+- [ ] Begin to develop / review the existing user research.  If results are already available, review and validate the findings.
+- [ ] Review the technology stack proposed, including languages, frameworks, databases, and ensuring they are modern and flexible.
+- [ ] Review DevOps and infrastructure strategy.
+- [ ] Review against other criteria in the U.S. Digital Services Playbook.
+
+###Beginning of the design process - Sprint 0
+- [ ] Assess design solutions map to user needs and best practices and quality.
+- [ ] Assess usability testing methods; team should be using established design methods (see 18F’s Method Cards)
+- [ ] Assess plan and execution of content strategy; see 18F’s Content Guide for reference
+- [ ] Assess front end design strategy: How is the team is creating reusable components for the front-end user experience, including development of a pattern library?  see the vets.gov playbook for reference. 
+
+###Beginning of the development process - Sprint 0
+- [ ] Ensure team is conducting code reviews
+- [ ] Ensure appropriate level of code coverage; evaluate unit tests, feature tests, and integration tests
+- [ ] Evaluate continuous integration and automated testing strategy and practices; see 18F’s Testing Cookbook and Automated Testing Playbook, and Play 10 – Automate Testing and Deployments. 
+
+###Beginning the agile process - Sprint 0
+- [ ] Ensure a living roadmap exists, and it is reviewed and updated frequently
+- [ ] Review the sprint plan leading up to the release
+- [ ] Ensure product owner continues to be engaged and empowered to move the team forward
+- [ ] Ensure each sprint produces working software, tested by users, demoed to stakeholders, and accepted / rejected by the product owner
+- [ ] Ensure development process is as open as possible, for productive transparency; see Play 13 – Default to Open
+
+###Before your first release...
+- [ ] Review strategy to meet certification and accreditation requirements. 
+- [ ] Ensure production environment is capable of meeting load, and resources can be provisioned easily; see Play 9 – Deploy in a Flexible Hosting Environment. 
+- [ ] Ensure application functions as expected while moving from development environments to production.
+
+
+
+
+
+
+
+
+ 
+ 

@@ -15,53 +15,55 @@ The Agile Kickoff Meeting helps you strategize with members of your agency to al
 
 ###Sample Agenda
 Welcome
--Agenda/House Rules
--General Intros/Team
+- Agenda/House Rules
+- General Intros/Team
 
 Stakeholder Inquiry
--Who decides
--Who has knowledge
--Who is dependent on this
--“Who is the family?”
+- Who decides
+- Who has knowledge
+- Who is dependent on this
+- “Who is the family?”
 
 Goals/Non-goals
--“Why are we here”// the problem space
--“Elevator Pitch” / Slogan
--“Propose the worst idea”
+- “Why are we here”// the problem space
+- “Elevator Pitch” / Slogan
+- “Propose the worst idea”
 
 Users/Needs
--Determine F.O.G.
--Prev research?
--Users present?
+- Determine F.O.G.
+- Prev research?
+- Users present?
 
 High level features/MVP
--Prioritize most valuable workflows if strangler pattern
--$100 comparison exercise
+- Prioritize most valuable workflows if strangler pattern
+- $100 comparison exercise
 
 Technical Needs, Constraints, Dependencies, Integrations
--Knowledge
--Empathy
+- Knowledge
+- Empathy
 
 Business Needs
--Security/ATO
--Timelines
+- Security/ATO
+- Timelines
 
 Risks
--“What keeps u up at night?
--Prioritize & discuss
+- “What keeps u up at night?
+- Prioritize & discuss
 
 Size it up
--Working principles: what is firm, what is flexible
+- Working principles: what is firm, what is flexible
 
 What might this take? Time/resources strawman
 
 Next steps
--Epic Stories if appropriate
+- Epic Stories if appropriate
 
 Retro (demos retro, helps assess buy in)
 
 ###Who the product is for: 
+
 First and foremost, the following individuals are critical to the success of the workshop: 
+
 1. Project stakeholders
 2. Agency developers and designers
 3. The procurement lead
