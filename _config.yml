@@ -40,9 +40,6 @@ navigation:
 - text: Equip
   url: equip/
   internal: true
-- text: Hire
-  url: hire/
-  internal: true
 - text: Recruit
   url: recruit/
   internal: true
