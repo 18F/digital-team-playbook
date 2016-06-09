@@ -3,5 +3,5 @@ permalink: /hire/
 title: Hire
 ---
 
-Hire page coming soon!
+Hire page coming soon! 
 
