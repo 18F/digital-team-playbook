@@ -40,4 +40,4 @@ Day Three will focus on coalescing around strategy, ensuring completeness, devel
 By the end of the workshop, the group will have collectively developed artifacts including an acquisition strategy, vision statement, user stories, and other items as reflected in these two documents:
 
 - Statement of Objectives Document
-- Evaluation of Criteria Document
+- Evaluation of Criteria Document 
