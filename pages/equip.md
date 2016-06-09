@@ -3,9 +3,10 @@ permalink: /equip/
 title: Equip
 ---
 
-As obvious as it may seem, providing the right equipment, development environment or design resources on day one will save numerous wasted hours otherwise spent by new employees on simply finding the tools they need to do their job correctly. In order to make the most effective use of their time, here are some guidelines we’ve come up with that will help get a digital services team up and running in no time.
-Office space
-
+As obvious as it may seem, providing the right equipment, development environment or design resources on day one will save numerous wasted hours otherwise spent by new employees on simply finding the tools they need to do their job correctly. In order to make the most effective use of their time, here are some guidelines we’ve come up with that will help get a digital services team up and running in no time.  
+  
+##Office space  
+  
 You’ll obviously need to allocate office space for your team to use. Remember to plan for the team to expand (as it surely will). The team will sit together, as they’ll be working on the same projects.  Work environments in the private sector vary greatly, but it’s quite likely that many new staff will prove to be pretty flexible given a few broad-based considerations. First, digital services team members work together, so daily communication and cooperation is critical to success. If digital services teams can be physically located together in shared working spaces, this provides flexibility to grow and adapt as the project changes. Physically isolating or distributing all team members across offices or buildings makes it harder for new team members to learn your agency’s culture and communicate with your staff. With that said, it’s distributed teams are common in private industry - so consider establishing a hub first, and then remain flexible as you fill out the rest of your team members.
 
 ##Computer equipment
