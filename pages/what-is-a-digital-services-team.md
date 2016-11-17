@@ -4,7 +4,7 @@ title: What is a digital services team
 ---
 #...and why do you need one?
 
-A digital services team is made up of individuals who empower you to utilize industry standard best practices in meaningful ways across your organization. digital services teams will share many characteristics but are also unique within the agency where they serve. In some agencies they may be built from the ground up - in others, the majority of a team may be existing staff who have been assigned new roles and augmented with new skilled staff. 
+A digital services team is made up of individuals who empower you to utilize industry standard best practices in meaningful ways across your organization. Digital services teams will share many characteristics but are also unique within the agency where they serve. In some agencies they may be built from the ground up - in others, the majority of a team may be existing staff who have been assigned new roles and augmented with new skilled staff. 
 
 All Digital Service Teams are be bound by common goals and core principles, and an unwavering passion to help build effective, user-centric digital services focused on the interaction between government and the external and internal people it serves. In addition, each team will combine expertise across multiple disciplines and embody agile philosophies and practices to transform how the federal government works and delivers services.
 
